@@ -6,7 +6,7 @@ import java.util.Dictionary;
 import java.util.*;
 import java.io.*;
 import java.lang.*;
-class Main {
+class SomeOtherCollectionsMethods {
   public static void main(String[] args) {
     Dictionary<Integer, Boolean> dict = new Hashtable<>();
     // (or) Dictionary<Integer, Boolean> dict = new Hashtable<Integer, Boolean>();
