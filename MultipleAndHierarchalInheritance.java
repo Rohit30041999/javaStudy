@@ -1,4 +1,4 @@
-public class Main {
+public class MultipleAndHierarchalInheritance {
   public static void main(String[] args) {
     //Consider these numbers as examples to understand the multiple and hierarchal inheritance. 
     int thatNumber = 23;
