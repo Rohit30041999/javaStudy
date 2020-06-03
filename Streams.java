@@ -3,6 +3,12 @@ import java.util.*;
 // util (utility) package contains the methods and class related to streams API.
 import java.util.stream.*;
 
+/*
+  DataType::compare(DataType number1, DataType number2) { return number1 >= number2; }
+                                     (OR)
+  DataType::compare(DataType number1, DataType number2) { return number1 - number2; }
+*/
+
 class MyStream {
 
   public void applyBasicStreamMethodsOnIntegers(List<Integer> listOfIntegerElements) {
